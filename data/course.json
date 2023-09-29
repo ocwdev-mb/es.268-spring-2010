@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Mathematics"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "legacy_uid": "9811aaa0-7bd1-7cbd-449f-7d6a20670916",
+  "instructors": {
+    "content": [
+      "e44be0c7-3aec-bb3b-9625-04b4dec7e010",
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "39ac9b85-ba5c-3536-4add-1fba6109a65c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2d94c2b6-5d26-bea7-d220-6e6736a3fc33",
+    "website": "es-268-the-mathematics-in-toys-and-games-spring-2010"
+  },
+  "course_title": "The Mathematics in Toys and Games",
+  "course_description": "We will explore the mathematical strategies behind popular games, toys, and puzzles. Topics covered will combine basic fundamentals of game theory, probability, group theory, and elementary programming concepts. Each week will consist of a lecture and discussion followed by game play to implement the concepts learned in class.\n",
+  "department_numbers": [
+    "ES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ES.268",
+  "course_image_thumbnail": {
+    "content": "99a233e0-1766-5128-024b-a90d0bd1ae3e",
+    "website": "es-268-the-mathematics-in-toys-and-games-spring-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Written Assignments",
+    "Design Assignments",
+    "Activity Assignments"
+  ],
+  "site_uid": "05f2ea24-f753-473d-a0e3-6ef9ffa1cc97",
+  "site_short_id": "es.268-spring-2010",
+  "title": "Course Metadata"
+}
